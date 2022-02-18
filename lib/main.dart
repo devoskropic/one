@@ -1,17 +1,17 @@
 import 'package:flutter/material.dart';
-import 'one_theme.dart';
+import 'themes/one_theme.dart';
 import 'home.dart';
 
 void main() {
-  runApp(const Fooderlich());
+  runApp(const One());
 }
 
-class Fooderlich extends StatelessWidget {
-  const Fooderlich({Key? key}) : super(key: key);
+class One extends StatelessWidget {
+  const One({Key? key}) : super(key: key);
   @override
   Widget build(BuildContext context) {
     // HW: Create theme
-    final tema = OneTheme.light();
+    final tema = OneTheme.dark();
 
     // HW: Apply Home widget
     return MaterialApp(
