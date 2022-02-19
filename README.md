@@ -1,4 +1,4 @@
-# one
+# One
 
 207 Labz team!
 
@@ -15,6 +15,10 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-### Devoskropic!
+## Devoskropic!
 
 Hey I've already cloned this repo!
+
+### Update:
+
+First branch from devoskropic (devos)
